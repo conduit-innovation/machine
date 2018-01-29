@@ -1,7 +1,7 @@
 {
-  "name": "machine",
+  "name": "machine-static",
   "version": "15.0.0-21",
-  "description": "Build functions in standardized containers.",
+  "description": "Build functions in standardized containers. Patched for webkit-resolvable static loading.",
   "keywords": [
     "functions",
     "containers",
@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-machine/machine.git"
+    "url": "git://github.com/conduit-innovation/machine-static.git"
   },
   "bugs": {
     "url": "http://sailsjs.com/bugs"
